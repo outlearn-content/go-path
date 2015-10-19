@@ -3,19 +3,21 @@
 
   "paths" : [
     {
-      "name" : "all-modules-[username]",
-      "title" : "All Modules by [Firstname Lastname]",
-      "description" : "See in one place all the modules published by [Firstname Lastname].",
+      "name" : "golang-crash-course",
+      "title" : "Golang Crash Course",
+      "description" : "Jump right into Go with a quick tour, helpful examples, sample app, and common pitfalls.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
-        {"module" : "sample-module"}
+        {"module" : "golang/tour"},
+        {"module" : "golang/command-go"},
+        {"module" : "practical-introduction"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/sample-module.md"}
+    {"olm" : "./modules/practical-introduction.md"}
   ],
 
   "assets" : [

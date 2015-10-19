@@ -9,13 +9,16 @@
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [
+        {"page" : "./pages/welcome.md"},
         {"module" : "catalog/why-learn-go-1"},
         {"module" : "golang/tour"},
         {"module" : "golang/command-go"},
         {"module" : "learn-x-in-y-minutes/go"},
+        {"page" : "./pages/getting-real.md"},
         {"module" : "practical-introduction"},
         {"module" : "catalog/50-shades-of-go-traps-gotchas-and-common-mistakes-for-new-golang-devs"},
-        {"module" : "golang/tour"}
+        {"module" : "golang/tour"},
+        {"page" : "./pages/next.md"}
       ]
     }
   ],

@@ -17,7 +17,6 @@
         {"page" : "./pages/getting-real.md"},
         {"module" : "practical-introduction"},
         {"module" : "catalog/50-shades-of-go-traps-gotchas-and-common-mistakes-for-new-golang-devs"},
-        {"module" : "golang/tour"},
         {"page" : "./pages/next.md"}
       ]
     }

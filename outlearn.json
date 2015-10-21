@@ -6,7 +6,7 @@
       "name" : "golang-from-scratch",
       "title" : "Learn Go from Scratch",
       "description" : "Jump right into Go with a tour, helpful examples, sample app, and common pitfalls.",
-      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/go-path/master/assets/sand.jpg",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},

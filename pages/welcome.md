@@ -1,4 +1,4 @@
-# Welcome to Golang Crash Course
+# Welcome to Learn Go from Scratch
 
 Go continues to pick up steam for projects large and small. If you've been wanting to get your hands dirty and build some Go code yourself, this is the Path for you!
 

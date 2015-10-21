@@ -7,4 +7,12 @@ We'll start with a brief video from Rob Pike, one of Go's creators. He gives a c
 We'll wrap up the first part of the path with handy examples from Learn Go in Y Minutes.
 
 Good luck with your Go journey!  
-Gopher Girl
+Mat
+
+<img src="https://raw.githubusercontent.com/outlearn-content/go-path/master/assets/matryer.jpg" alt="Mat Ryer" style="width:250px;height:250px" align="left">
+
+<br clear="all">
+
+**About the Author:**
+
+Mat Ryer was part of a new movement of agile developers at BT where he honed his skills to become a leader in emerging tech. Mat founded a small technology company, worked on many projects around the world, and became an avid contributor to the open source community. He sold his company to Front Porch Digital in 2011 and moved to Boulder, Colorado for two years until the company was sold to Oracle. While blogging about technology, Mat was approached by a publisher to author Go Programming Blueprints. Today he works for GrayMeta, employing his Go expertise in this exciting LA-based big meta-data company. He spoke at Gophercon in April 2014 and at UK's first Go conference in August 2015.

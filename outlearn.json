@@ -3,9 +3,9 @@
 
   "paths" : [
     {
-      "name" : "golang-crash-course",
-      "title" : "Golang Crash Course",
-      "description" : "Jump right into Go with a quick tour, helpful examples, sample app, and common pitfalls.",
+      "name" : "golang-from-scratch",
+      "title" : "Learn Go from Scratch",
+      "description" : "Jump right into Go with a tour, helpful examples, sample app, and common pitfalls.",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
       "privacy" : "public",
       "pages" : [

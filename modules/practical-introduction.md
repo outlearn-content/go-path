@@ -15,4 +15,4 @@
 
 ## A Practical Introduction to Go
 
-<!-- @link, "url" : "http://synflood.at/tmp/golang-slides/mrmcd2012.html#5", "text": "Go through the slides." -->
+<!-- @link, "url" : "http://synflood.at/tmp/golang-slides/mrmcd2012.html#5" -->

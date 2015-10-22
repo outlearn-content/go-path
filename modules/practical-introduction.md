@@ -15,4 +15,16 @@
 
 ## A Practical Introduction to Go
 
-<!-- @link, "url" : "http://synflood.at/tmp/golang-slides/mrmcd2012.html#5" -->
+I could bore you with describing every single feature of Go one by one.
+
+…or, I could simply show you how to develop a simple network server that does something useful and is easy to understand.
+
+I will show you how to develop a telnet chat server, step by step. This is what it’s supposed to be doing:
+* The user connects to the chat server by telnet and is asked for a nickname.
+* After entering the nickname, the user joins the chat room.
+* By typing and pressing return, the user can post text that all other connected users can see.
+* When the user disconnects, all other users are informed that the user left the chat room.
+
+See the [full presentation](http://synflood.at/tmp/golang-slides/mrmcd2012.html#5).
+
+[![Intro to Go slide](https://raw.githubusercontent.com/outlearn-content/go-path/master/assets/intro-to-go.jpg)](http://synflood.at/tmp/golang-slides/mrmcd2012.html#5)
